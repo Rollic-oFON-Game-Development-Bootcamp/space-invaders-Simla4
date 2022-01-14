@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Boundry
   - Invader
+  - Invader02
+  - Invader03
+  - Mystery
   layers:
   - Default
   - TransparentFX
